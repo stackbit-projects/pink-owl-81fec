@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/cart.png"
+        "logo": "images/cart.png",
+        "logo_alt": "ShopSmart"
     },
     "footer": {
         "has_nav": true,
